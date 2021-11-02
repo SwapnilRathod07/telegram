@@ -1,0 +1,23 @@
+.box{background: #ecf0f3;
+  box-shadow: -3px -3px 7px #ffffff,
+               3px 3px 5px #ceced1;
+               border-radius:12%;
+  
+}
+body {
+    font-size: 15pt;
+}@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:100%;
+  width: 100%;
+  background: #ecf0f3;
+}
